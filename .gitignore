@@ -1,0 +1,53 @@
+# 忽略所有 .log 文件
+*.log
+ 
+# 忽略所有 .lock 文件
+*.lock
+ 
+# 忽略所有 .env 文件
+.env
+ 
+# 忽略所有的 node_modules 目录
+node_modules/
+ 
+# 忽略所有 bower_components 目录
+bower_components/
+ 
+# 忽略所有 dist 目录
+dist/
+ 
+# 忽略所有的 built 目录
+built/
+ 
+# 忽略所有的 .local 文件
+*.local
+ 
+# 忽略所有的 .output 文件
+*.output
+ 
+# 忽略新增的文件
+.gitkeep
+ 
+# 忽略 Visual Studio Code 的目录
+.vscode/
+ 
+# 忽略 webpack 的缓存目录
+.webpack/
+ 
+# 忽略 IDE 的配置目录
+.idea/
+ 
+# 忽略 npm 配置文件
+package-lock.json
+ 
+# 忽略 yarn 的锁文件
+yarn.lock
+ 
+# 忽略日志文件
+npm-debug.log*
+ 
+# 忽略某些log文件
+yarn-debug.log*
+ 
+# 忽略文件名为 .DS_Store 的文件
+.DS_Store
