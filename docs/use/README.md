@@ -6,6 +6,7 @@ description: 介绍spider的使用范围，以及使用初衷
 
 ## spider-node 快速入门
 - 本章节介绍运行spider-node的系统要求，如何安装，启动一个集群，然后运行一个简单的HelloWorld示例
+- 下载启动包 [spider-node](https://spider-node.oss-cn-beijing.aliyuncs.com/img/spider-node-1.0.2.RELEASE.tar.gz)  
 ### 1：环境要求
 - jdk 8:
   
