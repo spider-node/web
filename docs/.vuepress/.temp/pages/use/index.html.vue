@@ -1,6 +1,7 @@
 <template><div><h2 id="spider-node-快速入门" tabindex="-1"><a class="header-anchor" href="#spider-node-快速入门" aria-hidden="true">#</a> spider-node 快速入门</h2>
 <ul>
 <li>本章节介绍运行spider-node的系统要求，如何安装，启动一个集群，然后运行一个简单的HelloWorld示例</li>
+<li>下载启动包 <a href="https://spider-node.oss-cn-beijing.aliyuncs.com/img/spider-node-1.0.1.RELEASE.tar.gz" target="_blank" rel="noopener noreferrer">spider-node<ExternalLinkIcon/></a></li>
 </ul>
 <h3 id="_1-环境要求" tabindex="-1"><a class="header-anchor" href="#_1-环境要求" aria-hidden="true">#</a> 1：环境要求</h3>
 <ul>

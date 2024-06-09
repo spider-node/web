@@ -33,6 +33,8 @@ built/
  
 # 忽略 webpack 的缓存目录
 .webpack/
+
+./docs/.vuepress
  
 # 忽略 IDE 的配置目录
 .idea/
